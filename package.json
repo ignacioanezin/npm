@@ -1,0 +1,22 @@
+{
+  "name": "probando",
+  "version": "1.0.0",
+  "description": "probando npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignacioanezin/npm.git"
+  },
+  "keywords": [
+    "hola"
+  ],
+  "author": "nacho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignacioanezin/npm/issues"
+  },
+  "homepage": "https://github.com/ignacioanezin/npm#readme"
+}
