@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
       "dev": "node-sass -w src/scss/styles.scss -o src/css/styles.css/styles.css",
-      "prod": "node-sass  src/scss/styles.scss -o src/css/styles.css/styles.css --output-style=compressed"
+      "prod": "node-sass src/scss/styles.scss -o src/css/styles.css/styles.css"
   },
   "repository": {
     "type": "git",
