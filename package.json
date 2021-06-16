@@ -4,7 +4,7 @@
   "description": "probando npm",
   "main": "index.js",
   "scripts": {
-      "dev": "node-sass -w src/scss/styles.scss -o src/css/styles.css --source-map=true",
+      "dev": "node-sass -w src/scss/styles.scss -o src/css/styles.css",
       "prod": "node-sass  src/scss/styles.scss -o src/css/styles.css --output-style=compressed"
   },
   "repository": {
